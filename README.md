@@ -1,2 +1,7 @@
 # Dating_website_Name_In_Progress
-A dating website idea from my father. Working with a dataset to match people based on similarity and what things they indicate interest in
+
+Contributers: Anastasios Pagiatakis
+
+A dating website idea from my father. Working with a dataset to match people based on similarity and what things they indicate interest in.
+
+The project is in a very basic phase, code so far serves most as a test of how the concept could work in the absolute most rudementary way. I am working to gain more knowlage on web development and database interaction, and how this idea can be refined in the state it is now, and how it can be scaled up to work with a database and a website.
